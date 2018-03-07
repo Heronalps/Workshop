@@ -1,1 +1,3 @@
-# Relevant Workshop Materials, i.e. slides, tutorials, papers
+# Workshop
+
+Relevant Workshop Materials, i.e. slides, tutorials, papers
